@@ -15,8 +15,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saimworks00-sketch.github.io)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_CHANNEL_LINK)
-[![Facebook](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_PAGE_LINK)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VoltEdgeBD)
+[![Facebook](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61589576281822)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimworks00@gmail.com)
 
 </div>
